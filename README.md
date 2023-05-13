@@ -10,13 +10,12 @@ These instructions will get you a copy of the project up and running on your loc
 You will need to have the following installed to use this project:
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
 
 ### Installing
 1. Clone the repository
 2. Open the project in your favorite text editor
-3. Begin making changes to the HTML, CSS, JavaScript, and Bootstrap
+3. Begin making changes to the HTML, CSS and Bootstrap
 
 ### Usage
 Once the website is installed and running, you can use it as a portfolio website for showcasing your work as a web developer. 
